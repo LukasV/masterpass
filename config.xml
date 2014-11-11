@@ -69,20 +69,4 @@ A list of available plugins are available at https://build.code8.cz/docs/plugins
 <icon src="img/App_Icon_[Rounded]/AppIcon72x72.png" gap:platform="ios" width="72" height="72" />
 <icon src="img/App_Icon_[Rounded]/AppIcon72x72@2x.png" gap:platform="ios" width="144" height="144" />
 
-
-    <!--
-Define access to external domains.
-
-<access /> - a blank access tag denies access to all external resources.
-<access origin="*" /> - a wildcard access tag allows access to all external resource.
-
-Otherwise, you can specify specific domains:
-
-    <access origin="http://127.0.0.1*"/> <!-- allow local pages -->
-    <!--
-<access origin="http://code8.cz" /> - allow any secure requests to http://code8.cz/
-<access origin="http://code8.cz" subdomains="true" /> - same as above, but including subdomains, such as http://build.code8.cz/
-<access origin="http://code8.cz" browserOnly="true" /> - only allows http://code8.cz to be opened by the child browser.
--->
-
 </widget>
