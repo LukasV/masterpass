@@ -1,0 +1,490 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"ini",
+				"initialize()	app-view.js"
+			],
+			[
+				"categor",
+				"urlCategorySlug	app-view.js"
+			],
+			[
+				"category",
+				"categorySlug"
+			],
+			[
+				"at",
+				"attributes"
+			],
+			[
+				"meta",
+				"metaItems"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"alert",
+				"alert(aSome)"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"funct",
+				"function"
+			],
+			[
+				"upda",
+				"updatePrices()	selected-products-view.js"
+			],
+			[
+				"leng",
+				"length"
+			],
+			[
+				"update",
+				"updatePrices"
+			],
+			[
+				"function",
+				"map(function(aSome) {"
+			],
+			[
+				"getElement",
+				"getElementById('aSome')"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"each",
+				"each(fn)	jquery.nicescroll.js"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tri",
+				"trigger	.trigger()"
+			],
+			[
+				"stio",
+				"stopPropagation"
+			],
+			[
+				"preve",
+				"preventDefault()	jquery.nicescroll.js"
+			],
+			[
+				"getShor",
+				"getShortCat(id)	app.js"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"location",
+				"locationName"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"max",
+				"maxlength"
+			],
+			[
+				"insert",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"prev",
+				"prevItem"
+			],
+			[
+				"prevent",
+				"preventDefault()	jquery-1.11.0.js"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"border-rad",
+				"border-bottom-left-radius"
+			],
+			[
+				"border-r",
+				"border-right-width"
+			],
+			[
+				"border",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: c",
+				"Snippet: consolelog"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/barometer/public/js/site.js",
+		"/C/xampp/htdocs/barometer/public/intro.html",
+		"/C/xampp/htdocs/barometer/admin/css/style.css",
+		"/C/xampp/htdocs/barometer/public/barometer.sublime-workspace",
+		"/C/xampp/htdocs/cop/junk/svatba/index.php",
+		"/C/xampp/htdocs/barometer/public/js/views/listed-products-view.js",
+		"/C/xampp/htdocs/barometer/public/js/views/listed-mini-products-view.js",
+		"/C/xampp/htdocs/barometer/public/js/views/selected-products-view.js",
+		"/C/xampp/htdocs/barometer/public/js/views/selected-xmas-products-view.js",
+		"/C/xampp/htdocs/barometer/admin/js/ckeditor.js",
+		"/C/xampp/htdocs/barometer/public/christmas.html",
+		"/C/xampp/htdocs/barometer/public/index.html",
+		"/C/xampp/htdocs/barometer/public/stylesheets/styles.css",
+		"/C/Users/Luckyluke/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/barometer/public/js/views/generic-collection-view.js",
+		"/C/xampp/htdocs/barometer/public/step3-single.html",
+		"/C/xampp/htdocs/barometer/public/js/views/listed-mini-products-view",
+		"/C/xampp/htdocs/barometer/public/js/site-lukas.js",
+		"/C/xampp/htdocs/barometer/public/backbone.html",
+		"/C/xampp/htdocs/barometer/public/step32.html",
+		"/C/xampp/htdocs/barometer/public/js/app.js",
+		"/C/xampp/htdocs/barometer/public/step3.html",
+		"/C/Users/Luckyluke/AppData/Roaming/Sublime Text 2/Packages/User/consolelog.sublime-snippet",
+		"/C/xampp/htdocs/pilsner-svn/cache/2014-07-14-js-de9e5bfbb2d1575d3c50c5a63e5552758281b146.js",
+		"/C/xampp/htdocs/pilsner-svn/cache/2014-07-14-js-34e41062f551b145799938eabe7275ea689eedff.js",
+		"/C/xampp/htdocs/cop/index.php",
+		"/C/xampp/htdocs/pilsner-svn/css/originalita-2014/stylesOld.css",
+		"/C/xampp/htdocs/pilsner-svn/js/originalita-2014/owl.carousel.min.js",
+		"/C/xampp/htdocs/pilsner/js/site.js",
+		"/C/projects/tmobile/posel/www/standalone.html",
+		"/C/projects/tmobile/posel/www/vyzva.html",
+		"/C/projects/tmobile/posel/www/res/posel.css",
+		"/C/Users/Luckyluke/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/projects/tmobile/posel/www/res/posel.js",
+		"/C/projects/tmobile/posel/www/res/avatar-sprite.png",
+		"/C/xampp/htdocs/ohmyshop-live/themes/ohmyshop/css/global.css",
+		"/C/xampp/htdocs/stiricb/wp-content/themes/responsive/languages/fa_IR.mo",
+		"/C/xampp/htdocs/stiricb/wp-content/themes/responsive/header.php",
+		"/C/xampp/htdocs/stiricb/wp-content/themes/responsive/comments.php",
+		"/C/xampp/htdocs/stiricb/wp-content/themes/responsive/functions.php",
+		"/C/xampp/htdocs/stiricb/wp-content/themes/responsive/languages/bg_BG.mo",
+		"/C/xampp/htdocs/stiricb/wp-content/themes/responsive/languages/el_GR.mo",
+		"/C/xampp/htdocs/stiricb/wp-content/themes/responsive/languages/ru_RU.mo",
+		"/C/xampp/htdocs/stiricb/wp-content/themes/responsive/languages/sr_RS.mo",
+		"/C/xampp/htdocs/stiricb/wp-content/themes/responsive/screenshot.png"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"border-radius: 5px",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"myURL",
+			"http://bit.ly/3454562",
+			"shortUrl",
+			"urlshortener",
+			"myURL",
+			"getShortURL",
+			"paste",
+			"tc",
+			"20000px",
+			"#dataVizCont",
+			"#dataVizCont header",
+			"tc",
+			"topConf",
+			"\".add",
+			".add",
+			"topConf",
+			"clicked",
+			"niceSelect",
+			".options",
+			"#dataVizCont .niceSelect .options ul li",
+			"selectDestination",
+			"intro.html",
+			"<meta",
+			"app.destinationList",
+			"ns",
+			"ns1",
+			"niceSelectInit",
+			"niceSelectInit();",
+			"niceSelect",
+			"refresh",
+			"destinationList",
+			"var",
+			"destinationView1",
+			"app.DestinationView",
+			"destinationIds",
+			"locationIdsLC",
+			"app.destinationIds",
+			"category",
+			"app.destinationIds",
+			"(\"z\")",
+			"Slug",
+			"slug",
+			"Booting with location",
+			"api/'",
+			"api'",
+			"CKEDITOR",
+			"app.destinationIds",
+			"LocationIDs",
+			"selectedProductsXmasLC",
+			"localStorage",
+			"local",
+			"SelectedProducts",
+			"api/holiday-costs/",
+			"category",
+			"DestinationList",
+			"holiday-costs",
+			"new DestinationList",
+			"DestinationList",
+			"chevinbold-webfont.ttf",
+			"destinationList",
+			"removeMeta",
+			"addMeta",
+			"metaItem",
+			"Metadata",
+			"Meta",
+			"left-col2-content",
+			"Metadata",
+			" /><br />",
+			"/><img",
+			"PRINT",
+			"share",
+			"sh_inp",
+			"sh_inp1",
+			"share",
+			"Electonics",
+			"all",
+			"addAll",
+			"locationPricelistLoaded",
+			"updatePrices",
+			"Prices",
+			"selectedProductsLoaded",
+			"ProductListXmas",
+			"listedProductList",
+			"selectedXmasProductList",
+			"updateURL",
+			"price_1",
+			"selectedXmasProductsView",
+			"app.SelectedXmasProductsView",
+			"selectedProductList",
+			"removeProduct",
+			"removeItem",
+			"collection",
+			"removeProduct",
+			"collection",
+			"collections",
+			"var",
+			"collection",
+			"var",
+			"collection",
+			"selectedXmasProductList",
+			"_childViews",
+			"appendItem",
+			"SelectedProductsItemView",
+			"fetch",
+			"appen",
+			"resizeStandardGraph",
+			"appendItem",
+			"_childViews",
+			"toggle",
+			"_childViews",
+			"locationPricelist1",
+			"destin",
+			"selectedXmasProductsView",
+			"loadDestinationPricelist",
+			"updatePrices",
+			".updatePrices",
+			"updatePrices",
+			"item",
+			"updatePrices",
+			"price1",
+			"tab",
+			"indent",
+			"selectedProductList",
+			"_childViewTagName",
+			"			_.bindAll(this, 'render', 'appendItem');\n",
+			"_childViewTagName",
+			"uniqueURL",
+			"unique"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" /><br /><br />",
+			"/><br />\n		<img",
+			"PriceList",
+			"	    appendItem:function(item){\n	        var itemView = new app.DestinationItemView({model: item});\n	        return this;\n	    }",
+			"519ae1",
+			"fcfcfc",
+			"7ab5ef",
+			"1b76ce",
+			"border-radius: 5px",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"global",
+				"themes/ohmyshop/css/global.css"
+			],
+			[
+				"fo",
+				"languages/fa_IR.mo"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true
+}
