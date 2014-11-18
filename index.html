@@ -44,6 +44,7 @@
       $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
       $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
     </script>
+    <script type="text/javascript" src="cordova.js"></script>
     <script src="data/app2.js"></script>
     <script type="text/javascript">
       app.initialize();
@@ -51,7 +52,8 @@
   </head>
   <body>
     <div id="base" class="">
-
+      <div id="statusDiv">Status</div>
+      <div id="buttonDiv"><button id="connect">connect</button></div>
       <!-- Unnamed (Image) -->
       <div id="u0" class="ax_image">
         <img id="u0_img" class="img " src="images/index/u0.png"/>
